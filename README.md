@@ -15,5 +15,6 @@
 ### doing
 
 * testnet
+* bug fix and enhancement
 * contract template
 * side chain
