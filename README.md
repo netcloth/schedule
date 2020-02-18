@@ -10,6 +10,7 @@
 * proposal
 * IPAL module
 * smart contract
+* go sdk for blockchain
 
 ### doing
 
