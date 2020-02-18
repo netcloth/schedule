@@ -1,4 +1,4 @@
-# schedule
+# schedule of netcloth network
 
 ## blockchain
 
@@ -14,4 +14,5 @@
 ### doing
 
 * testnet
+* contract template
 * side chain
